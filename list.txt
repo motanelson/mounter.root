@@ -1,0 +1,1 @@
+root root/isolinux root/syslinux root/root root/boot root/dev root/bin root/lib root/sbin root/var root/mnt root/pro root/tmp root/usr root/usr/bin
