@@ -1,0 +1,1 @@
+root/dev/tty0 root/dev/sda root/dev/sdb root/dev/sdc root/dev/hda root/dev/hdb root/dev/hdc root/mnt/disk root/mnt/floppy root/mnt/cdrom
